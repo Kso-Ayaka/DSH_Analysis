@@ -1,3 +1,5 @@
 # DSH_Analysis
 
-test
+An Empirical Study on Deep Supervised Hashing
+
+Logs please refer to '/logs'
